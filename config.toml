@@ -1,9 +1,9 @@
-baseurl = "/"
+baseurl = "https://amy17519.me"
 languageCode = "en-us"
 title = "Amy Tzuyu Chen"
 theme = "hugo-ivy"
 googleAnalytics = ""
-disqusShortname = "frr"
+disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
