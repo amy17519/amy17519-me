@@ -30,8 +30,6 @@ footnotereturnlinkcontents = "↩"
     url = "/post/"
     weight = 4
 
-
-
 [params]
     description = ""
     footer = "&copy; [Amy Tzuyu Chen](https://amy17519.me) 2018 | [Github](https://github.com/amy17519) | [LinkedIn](https://www.linkedin.com/in/amy17519)"
