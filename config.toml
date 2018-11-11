@@ -4,6 +4,7 @@ title = "Amy Tzuyu Chen"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
+enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -21,13 +22,9 @@ footnotereturnlinkcontents = "↩"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
+    weight = 3
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
@@ -35,8 +32,3 @@ footnotereturnlinkcontents = "↩"
 [params]
     description = ""
     footer = "&copy; [Amy Tzuyu Chen](https://amy17519.me) 2018 | [Github](https://github.com/amy17519) | [LinkedIn](https://www.linkedin.com/in/amy17519)"
-
-  highlightjsVersion = "9.12.0"
-  highlightjsCDN = "//cdn.bootcss.com"
-  highlightjsLang = ["r", "yaml", "tex"]
-  highlightjsTheme = "github"
