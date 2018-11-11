@@ -26,8 +26,11 @@ footnotereturnlinkcontents = "↩"
     url = "/tags/"
     weight = 3
 [[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "Posts"
+    url = "/post/"
+    weight = 4
+
+
 
 [params]
     description = ""
