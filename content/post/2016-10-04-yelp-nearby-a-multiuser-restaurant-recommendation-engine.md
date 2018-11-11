@@ -3,8 +3,8 @@ title: Yelp Nearby - A Multiuser Restaurant Recommendation Engine
 author: Amy Tzu-Yu Chen
 date: '2016-10-04'
 slug: yelp-nearby-a-multiuser-restaurant-recommendation-engine
-categories: ["R", "Project"]
-tags: ["R", "Project"]
+categories: ["R", "Project", "Python"]
+tags: ["R", "Project", "Python"]
 ---
 
 ![](https://raw.githubusercontent.com/amy17519/nycdsa_capstone/master/blog_img/00cover.jpg)
