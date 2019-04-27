@@ -77,7 +77,7 @@ Give people enough time to submit their presentations (~5 weeks for SatRday LA 2
 Now, I will share how we raised money for SatRday LA 2019. First, try to research if you can get help from major R groups such as RStudio and RConsortium. SatRday Org is currently working on making these funds more accessible to organizers. Details to come! Second, list out companies that use R or want to hire useRs. It usually takes more time and process to get sponsorships from big companies so start with those first. You may tier your sponsorships, but SatRday LA 2019 did not.
 
 #### Marketing
-I would like to thank community organizers of R User Groups for helping us market SatRday LA 2019 on not only their website, but also in every meetup. In addition to local meetups, we also reached out to schools (usu. Dept of Statistics) and tweeted regularly.
+I would like to thank community organizers of R User Groups for helping us market SatRday LA 2019 on not only their [website](https://laocr.org), but also in every meetup. In addition to local meetups, we also reached out to schools (usu. Dept of Statistics) and tweeted regularly.
 
 #### Videography
 SatRday Org is also planning on making this service more accessible for all organizers. Stay tuned! SatRday LA 2019 talked to many videographers before the event and the price range is wide. If you ever need to get a videography service, make sure you get multiple quotes before hiring a videographer. 
