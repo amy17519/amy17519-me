@@ -98,7 +98,7 @@ I am proud of SatRday LA because...
 
 ## Side Effects After SatRday LA
 #### The Good Part
-LA R community and fellow SatRday organizers around the world are awesome and very supportive! I learned a lot from fixing website, making google sheets/forms/docs, raising money, emailing etc. SatRday LA will (hopefully) be held annually in different regiond of the Greater Los Angeles each year. We plan to rotate between regional organizers and please email satrdays.losangeles@gmail.com if you are interested in learning more. 
+LA R community and fellow SatRday organizers around the world are awesome and very supportive! I learned a lot from fixing website, making google sheets/forms/docs, raising money, emailing etc. SatRday LA will (hopefully) be held annually in a different region of the Greater Los Angeles each year. We plan to rotate between regional organizers and please email [satrdays.losangeles@gmail.com](mailto:satrdays.losangeles@gmail.com) if you are interested in learning more. 
 
 #### The Not-so-good Part
 I still type SatRday instead of Saturday a lot of times. And iPhone autocorrect stopped working a long time ago. Before SatRday LA, I was not on Twitter. Now I am on Twitter too much... 
