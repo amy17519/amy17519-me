@@ -20,7 +20,7 @@ Some numbers about SatRday LA 2019:
 - $35 for Professional, $15 for Student
 - 14 students were sponsored by another attendee
 - 127+67 = 194 commits on SatRday LA repos
-- 15 tweets on @satRdays_org
+- 15 tweets on [@satRdays_org](https://twitter.com/satRdays_org)
 
 If you are interested what happened at SatRday LA 2019, go to the following links:
 
