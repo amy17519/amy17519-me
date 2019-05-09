@@ -10,7 +10,8 @@ I am a data scientist working at [System1](http://system1.com). I am from [Taich
 Actively organizing | 主要社群
 
 - [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
-- [SatRdays Los Angeles 2019](https://knowledgebase.satrdays.org)
+- [SatRdays](https://knowledgebase.satrdays.org)
+  - [SatRdays Los Angeles 2019](https://losangeles2019.satrdays.org)
 
 -----
 
