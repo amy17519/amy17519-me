@@ -9,6 +9,7 @@ I am a data scientist working at [System1](http://system1.com). I am from [Taich
 -----
 Actively organizing | 主要社群
 
+- [LA West R Users Group](https://laocr.org)
 - [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
 - [SatRdays](https://knowledgebase.satrdays.org)
   - [SatRdays Los Angeles 2019](https://losangeles2019.satrdays.org)
