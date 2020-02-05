@@ -12,7 +12,8 @@ Community | 主要社群
 - [LA West R Users Group](https://laocr.org)
 - [SatRdays](https://knowledgebase.satrdays.org)
   - [SatRdays Los Angeles 2019](https://losangeles2019.satrdays.org)
-- (Retired)[PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
+  - [SatRdays Taiwan 2020](http://taiwan2020.satrdays.org)
+- (Retired) [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
 
 -----
 
