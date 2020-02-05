@@ -7,12 +7,12 @@ I am a data scientist working at [System1](http://system1.com). I am from [Taich
 我是一名數據工作者，來自台灣台中，現居美國加州洛杉磯。2016年畢業於加州大學洛杉磯分校(UCLA)，統計學士輔修德文、日文、都市計畫。畢業之後，在紐約完成了三個月的數據科學bootcamp。我一般寫R，必要時也用其他語言。我會在這個網站放我的作品集，懶人包教學，還有非技術的個人文章。文章會是中文或英文為主。
 
 -----
-Actively organizing | 主要社群
+Community | 主要社群
 
 - [LA West R Users Group](https://laocr.org)
-- [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
 - [SatRdays](https://knowledgebase.satrdays.org)
   - [SatRdays Los Angeles 2019](https://losangeles2019.satrdays.org)
+- (Retired)[PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
 
 -----
 
