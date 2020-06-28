@@ -7,12 +7,15 @@ I am a data scientist working at [System1](http://system1.com) and a current [Co
 我是一名數據工作者，來自台灣台中，現居美國加州洛杉磯。2016年畢業於加州大學洛杉磯分校(UCLA)，統計學士輔修德文、日文、都市計畫。畢業之後，在紐約完成了三個月的數據科學bootcamp。現在工作之餘，是華盛頓大學計算語言學的碩士在學生。我大多時候用R，有時寫Python。我會在這個網站放我的作品集，懶人包教學，還有非技術的個人文章。文章會是中文或英文為主。
 
 -----
-Community | 主要社群
-
-- [LA West R Users Group](https://laocr.org)
+Community & Open Source | 主要社群
+- [Mikata Project](https://mikata.dev)
+  - Open-source Python and R Tools for Data Science in Production
+- [LA West R Users Group](https://github.com/laRusers/presentations) 
+  - Monthly R meetings in West LA
 - [SatRdays](https://knowledgebase.satrdays.org)
-  - [SatRday Los Angeles 2019](https://losangeles2019.satrdays.org)
-  - [SatRday Taiwan 2020](http://taiwan2020.satrdays.org)
+  - Affordable one day R conference for local community
+    - [SatRday Los Angeles 2019](https://losangeles2019.satrdays.org)
+    - [SatRday Taiwan 2020](http://taiwan2020.satrdays.org)
 - (Retired) [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
 
 -----
