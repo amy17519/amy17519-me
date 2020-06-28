@@ -8,6 +8,7 @@ I am a data scientist at [System1](http://system1.com) and a [Computational Ling
 
 -----
 Community & Open Source | 主要社群
+
 - [Mikata Project](https://mikata.dev)
   - Open-source Python and R Tools for Data Science in Production
 - [LA West R Users Group](https://github.com/laRusers/presentations) 
