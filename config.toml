@@ -19,7 +19,7 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
+    name = "Contact"
     url = "/about/"
     weight = 2
 [[menu.main]]
@@ -30,6 +30,10 @@ footnotereturnlinkcontents = "↩"
     name = "Posts"
     url = "/post/"
     weight = 4
+[[menu.main]]
+    name = "Talks"
+    url = "/talk/"
+    weight = 5
 
 [params]
     description = ""
