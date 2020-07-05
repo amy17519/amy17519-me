@@ -12,7 +12,7 @@ tags:
 - Location: Zoom
 - [Slides](https://tinyurl.com/yaryuvm7)
 - [Repo](https://github.com/amy17519/dataviz)
-- [Video](https://www.meetup.com/rladies-la/events/271220855/)
+- [Video](https://youtu.be/ZHKBF2CbdTY)
 
 
 --
